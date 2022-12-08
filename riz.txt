@@ -1,0 +1,9 @@
+
+
+// solusi error bower-asset. instalasi bower-asset
+https://github.com/yidas/yii2-bower-asset
+
+
+// template default yii
+// yiisoft/yii2/baseApplication.php
+// views/layouts/main.php
